@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to software tools Pages
 
-You can use the [editor on GitHub](https://github.com/cazucito/OracleSetUp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## SOFTWARE
+```
+* JDK
+> 1. [jdk-8u171-windows-x64.exe](http://cazucito.com/xlinks/software/middleware/jdk-8u171-windows-x64.exe)
+> 2. [jdk-10.0.1_windows-x64_bin.exe](http://cazucito.com/xlinks/software/middleware/jdk-10.0.1_windows-x64_bin.exe)
+* EDITOR/IDE
+> 1. [netbeans-8.2-windows.exe](http://cazucito.com/xlinks/software/editors/netbeans-8.2-windows.exe)
+> 2. [jdk-8u171-nb-8_2-windows-x64.exe](http://cazucito.com/xlinks/software/editors/jdk-8u171-nb-8_2-windows-x64.exe)
+> 3. [npp.7.5.7.Installer.x64.exe](http://cazucito.com/xlinks/software/editors/npp.7.5.7.Installer.x64.exe)
+* VNC TOOLS
+> 1. [tigervnc-1.9.80.exe](http://cazucito.com/xlinks/software/net/tigervnc-1.9.80.exe)
+> 2. [tigervnc64-1.9.80.exe](http://cazucito.com/xlinks/software/net/tigervnc64-1.9.80.exe)
+> 3. [TigerVNC-1.9.80.dmg](http://cazucito.com/xlinks/software/net/TigerVNC-1.9.80.dmg)
+> 4. [VncViewer.jar](http://cazucito.com/xlinks/software/net/VncViewer.jar)
+> 5. [vncviewer64.exe](http://cazucito.com/xlinks/software/net/vncviewer64.exe)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cazucito/OracleSetUp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As is
