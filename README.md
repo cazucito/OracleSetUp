@@ -3,7 +3,6 @@
 ***
 
 ## SOFTWARE
-```
 * JDK
 > 1. [jdk-8u171-windows-x64.exe](http://cazucito.com/xlinks/software/middleware/jdk-8u171-windows-x64.exe)
 > 2. [jdk-10.0.1_windows-x64_bin.exe](http://cazucito.com/xlinks/software/middleware/jdk-10.0.1_windows-x64_bin.exe)
@@ -17,7 +16,6 @@
 > 3. [TigerVNC-1.9.80.dmg](http://cazucito.com/xlinks/software/net/TigerVNC-1.9.80.dmg)
 > 4. [VncViewer.jar](http://cazucito.com/xlinks/software/net/VncViewer.jar)
 > 5. [vncviewer64.exe](http://cazucito.com/xlinks/software/net/vncviewer64.exe)
-```
 
 ### Support or Contact
 As is
